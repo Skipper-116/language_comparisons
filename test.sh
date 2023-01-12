@@ -72,4 +72,7 @@ php test_php/index.php
 tput setaf 2; echo "Running ruby test"
 tput setaf 3;
 ruby test_ruby/main.rb
-
+# run the c# test
+tput setaf 2; echo "Running c# test"
+tput setaf 3;
+dotnet run --project test_csharp
