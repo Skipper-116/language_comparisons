@@ -1,0 +1,15 @@
+/home/roy/code/.private/comparison/test_csharp/bin/Debug/net7.0/test_csharp
+/home/roy/code/.private/comparison/test_csharp/bin/Debug/net7.0/test_csharp.deps.json
+/home/roy/code/.private/comparison/test_csharp/bin/Debug/net7.0/test_csharp.runtimeconfig.json
+/home/roy/code/.private/comparison/test_csharp/bin/Debug/net7.0/test_csharp.dll
+/home/roy/code/.private/comparison/test_csharp/bin/Debug/net7.0/test_csharp.pdb
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.csproj.AssemblyReference.cache
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.AssemblyInfoInputs.cache
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.AssemblyInfo.cs
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.csproj.CoreCompileInputs.cache
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.dll
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/refint/test_csharp.dll
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.pdb
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/test_csharp.genruntimeconfig.cache
+/home/roy/code/.private/comparison/test_csharp/obj/Debug/net7.0/ref/test_csharp.dll
