@@ -1,5 +1,5 @@
 
 time = Time.now
-(1..1_000_000_000).each { |i| i }
+(1..1_000_000_000).each { |i| i * 2 }
 endTime = Time.now
-puts "Time elapsed #{(endTime - time)*1000} milliseconds"
+puts "Execution time: #{(endTime - time)*1000}ms"

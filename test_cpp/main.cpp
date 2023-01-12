@@ -21,13 +21,16 @@ int main()
     // loop for 1 billion times
     for (int i = 0; i < 1000000000; i++)
     {
-        // do nothing
+        i * 2;
     }
     // end time of the program
     auto end = chrono::high_resolution_clock::now();
     // duration of the program in milliseconds
     auto duration = chrono::duration_cast<chrono::milliseconds>(end - start);
     // print the duration
-    cout << "Duration: " << duration.count() << " milliseconds" << endl;
+    cout << "Execution time: " << duration.count() << "ms" << endl;
     return 0;
 }
+// q. how to compile and run the program?
+// a. g++ main.cpp -o main
+// a. ./main

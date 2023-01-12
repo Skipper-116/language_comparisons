@@ -4,4 +4,4 @@ for(i = 0; i < 100000000; i++) {
 }
 var end = new Date().getTime();
 // print the time taken in milliseconds
-console.log(`Script took ${end - start} milliseconds to run`);
+console.log(`Execution time: ${end - start}ms`);
